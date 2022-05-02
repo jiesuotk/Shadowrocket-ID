@@ -33,3 +33,18 @@ Kpn834609
 密码：
 ### Zh112211
 -------------------------------------------
+
+-
+-
+-
+-
+-
+-
+
+
+
+
+
+   ### 你的宝贵支持，是我前进的动力！
+
+![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/weixinS.jpg)
