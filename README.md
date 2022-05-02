@@ -2,19 +2,19 @@
 ## 更新时间update time 
 2022-05-03   00:30（Beijng）
 -------------------------------------------
-Apple ID 1 password（视频演示）:
+Apple ID 1 Password（视频演示）:
 
 GXid886775
 -------------------------------------------
-Apple ID 2 password:
+Apple ID 2 Password:
 
 Diu715864
 -------------------------------------------
-Apple ID 3 password:
+Apple ID 3 Password:
 
 Qsa629435
 -------------------------------------------
-Apple ID 4 password:
+Apple ID 4 Password:
 
 Kpn834609
 -------------------------------------------
