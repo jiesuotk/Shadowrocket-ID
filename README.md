@@ -24,9 +24,9 @@ Apple ID 4 Password:
 ### 以下2个帐号收集于网络，不保证可用性
 
 账号1：
-### lnxsfbigr@maoe.cc
+### lbtctww@hotmail.com
 密码：
-### Aneeo1231234567893
+### Dageyun123
 -------------------------------------------
 账号2：
 ### smf1h9@sina.com
