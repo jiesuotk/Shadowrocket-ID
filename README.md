@@ -23,7 +23,7 @@ Apple ID 4 Password:
 
 ### 以上4个帐号都隐藏在我的油管视频里面  [点击进入](https://www.youtube.com/channel/UCXPSzwcs0pspPTAI2rcaBgQ "悬停显示")
 -------------------------------------------
-### 以下3个帐号收集于网络，不保证可用性
+### 以下4个帐号收集于网络，不保证可用性
 
 账号(ID)5：
 ### lbtctww@hotmail.com
@@ -40,7 +40,11 @@ Apple ID 4 Password:
 密码(Password)：
 ### Ibf014639
 -------------------------------------------
-
+账号(ID)8：
+### brdgrdiego@gmail.com
+密码(Password)：
+### Leo862105
+-------------------------------------------
 -
 -
 -
