@@ -21,7 +21,7 @@ Apple ID 4 Password:
 
 ### 以上4个帐号都隐藏在我的油管视频里面  [点击进入](https://www.youtube.com/channel/UCXPSzwcs0pspPTAI2rcaBgQ "悬停显示")
 -------------------------------------------
-### 以下2个帐号收集于网络，不保证可用性
+### 以下3个帐号收集于网络，不保证可用性
 
 账号5：
 ### lbtctww@hotmail.com
