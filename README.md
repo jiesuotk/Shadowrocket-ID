@@ -9,7 +9,7 @@ Apple ID 1 Password（视频演示）:
 ---
 Apple ID 2 Password:
 
-### Diu715864
+### 维护中
 ---
 Apple ID 3 Password:
 
@@ -38,7 +38,7 @@ Apple ID 4 Password:
 账号(ID)7：
 ### fzxxcv8920@outlook.com
 密码(Password)：
-### Ibf014639
+### 暂时不可用
 -------------------------------------------
 账号(ID)8：
 ### brdgrdiego@gmail.com
