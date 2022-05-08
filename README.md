@@ -1,6 +1,6 @@
 
 ### 更新时间 update time
- 2022-05-08   14:10（Beijng）
+ 2022-05-08   18:10（Beijng）
 ---
 
 Apple ID 1 Password（视频演示）:
@@ -17,8 +17,7 @@ Apple ID 3 Password:
 ---
 Apple ID 4 Password:
 
-### Miz563809
-
+### Rng265309
 ---
 
 ### 以上4个帐号都隐藏在我的油管视频里面  [点击进入](https://www.youtube.com/channel/UCXPSzwcs0pspPTAI2rcaBgQ "悬停显示")
