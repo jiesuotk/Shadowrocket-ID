@@ -35,9 +35,9 @@ Apple ID 4 Password:
 ### 待更新
 -------------------------------------------
 账号(ID)7：
-### xiaoxiaohdzwj@gmail.com
+### brdgrdiego@gmail.com
 密码(Password)：
-### 待更新
+### Xsi216405
 -------------------------------------------
 -
 -
