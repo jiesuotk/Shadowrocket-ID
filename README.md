@@ -1,6 +1,6 @@
 
 ### 更新时间 update time
-### 2022-05-10   20:40（Beijng）
+### 2022-05-10   22:40（Beijng）
 ---
 
 Apple ID 1 Password（视频演示）:
@@ -17,12 +17,12 @@ Apple ID 3 Password:
 ---
 Apple ID 4 Password:
 
-### Fhg735268
+### Wbn801496
 ---
 
 ### 以上4个帐号都隐藏在我的油管视频里面  [点击进入](https://www.youtube.com/channel/UCXPSzwcs0pspPTAI2rcaBgQ "悬停显示")
 -------------------------------------------
-### 以下为备用账户，上面全部失效的情况下才会更新
+### 以下为备用账户
 
 账号(ID)5：
 ### lifan68@outlook.com
