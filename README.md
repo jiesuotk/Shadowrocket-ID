@@ -17,7 +17,7 @@ Apple ID 3 Password:
 ---
 Apple ID 4 Password:
 
-### Bjs681237
+### Fhg735268
 ---
 
 ### 以上4个帐号都隐藏在我的油管视频里面  [点击进入](https://www.youtube.com/channel/UCXPSzwcs0pspPTAI2rcaBgQ "悬停显示")
@@ -33,7 +33,7 @@ Apple ID 4 Password:
 账号(ID)6：
 ### lbtctww@hotmail.com
 密码(Password)：
-### Ah3@336699
+### Rw8@336699
 
 -------------------------------------------
 账号(ID)7：
