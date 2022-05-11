@@ -9,7 +9,7 @@
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | **Iqy752980** | 
 
-### 以上4个帐号都隐藏在我的YouTube视频里面  [点击进入](https://www.youtube.com/channel/UCXPSzwcs0pspPTAI2rcaBgQ "悬停显示")
+### 以上4个帐号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/J1H4u1S5M0o "悬停显示")
 -------------------------------------------
 ### 以下为备用账户
 
