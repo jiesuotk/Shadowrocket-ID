@@ -1,6 +1,6 @@
 
 ### 更新时间 update time
-### 2022-05-11   08:55（Beijng）
+### 2022-05-11   09:25（Beijng）
 ---
 
 Apple ID 1 Password（视频演示）:
@@ -25,9 +25,9 @@ Apple ID 4 Password:
 ### 以下为备用账户
 
 账号(ID)5：
-### lifan68@outlook.com
+### dorinaGjoni1004@gmail.com
 密码(Password)：
-### Appleid2022
+### Vxo742186
 
 -------------------------------------------
 账号(ID)6：
@@ -37,9 +37,9 @@ Apple ID 4 Password:
 
 -------------------------------------------
 账号(ID)7：
-### lnxsfbigr@maoe.cc
+### anamariaDukagjini8467@gmail.com
 密码(Password)：
-### 维护中
+### Hsb063597
 -------------------------------------------
 -
 -
