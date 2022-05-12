@@ -1,6 +1,6 @@
 
 ### 更新时间 update time
-### 2022-05-11   23:55（Beijng）
+### 2022-05-12   08:50（Beijng）
 ---
 | 视频中显示的账号| 密码 Password |
 | :----: | :----: |
@@ -25,7 +25,7 @@
    </tr>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> Pn0@336699 </td>
+    <td class="xl68" x:str> Ck6@336699 </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
