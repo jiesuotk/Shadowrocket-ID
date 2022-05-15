@@ -1,12 +1,12 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 ### 更新时间 Update Time
-### 2022-05-15 &#8195;  14:10（Beijng）
+### 2022-05-15 &#8195;  16:10（Beijng）
 #### 我的TG群https://t.me/lifanfenxiang
 ---
 | 视频中显示的账号| 密码 Password |
 | :----: | :----: |
 | Apple ID 1 | **Fm20220511** | 
-| Apple ID 2 | **Diu715864** | 
+| Apple ID 2 | ~~**Diu715864** | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
 
