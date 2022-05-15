@@ -6,7 +6,7 @@
 | 视频中显示的账号| 密码 Password |
 | :----: | :----: |
 | Apple ID 1 | **Fm20220511** | 
-| Apple ID 2 | ~~**Diu715864** | 
+| Apple ID 2 | ~~**Diu715864**~~ | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
 
