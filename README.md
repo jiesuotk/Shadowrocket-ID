@@ -3,9 +3,9 @@
 ### 2022-05-20 &#8195;  17:00（Beijng）
 #### 本博客超低价，小火箭美区成品账号20元一个，QuantumulX带蓝标正版账号45元一个，无双重验证的空白账号5元一个，高速收费机场包月220G节点5元独享。我的TG群https://t.me/lifanfenxiang
 ---
-| 视频中显示的账号| 密码 Password |
+| 视频中的账号| 密码就是网址 |
 | :----: | :----: |
-| Apple ID 1 | ** https://t.me/Lifan86?1 ** | 
+| Apple ID 1 | https://t.me/Lifan86?1  | 
 | Apple ID 2 | ~~**Diu715864**~~ | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
