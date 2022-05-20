@@ -1,7 +1,7 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 ### 更新时间 Update Time
 ### 2022-05-20 &#8195;  17:00（Beijng）
-#### 本博客超低价，小火箭美区成品账号20元一个，QuantumulX带蓝标正版账号45元一个，无双重验证的空白账号5元一个，高速收费机场包月220G节点5元独享。我的TG群https://t.me/lifanfenxiang
+#### 更多免费资源请加入我的TG群https://t.me/lifanfenxiang
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
