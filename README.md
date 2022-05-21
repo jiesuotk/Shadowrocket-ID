@@ -5,7 +5,7 @@
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
-| Apple ID 1 | https://t.me/Lifan86/522 | 
+| 演示的那个 | https://t.me/Lifan86/522 | 
 | Apple ID 2 | ~~**Diu715864**~~ | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
