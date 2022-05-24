@@ -23,7 +23,7 @@
     <td class="xl68" x:str>ktjlk547@icloud.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str>https://t.me/Lifan86/525</td>
+    <td class="xl68" x:str>https://t.me/Lifan86/524</td>
    </tr>
   </table>
   
@@ -87,10 +87,10 @@
     <td class="xl65" height="33.33" width="300" colspan="2" style='height:25.00pt;width:265.50pt;border-right:.5pt solid windowtext;border-bottom:.15pt solid windowtext;' x:str>Apple ID 9</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>账号</td>
-    <td class="xl68" x:str>u89hdy@163.com</td>
+    <td class="xl68" x:str>dageyun123@outlook.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> Sj5@336699 </td>
+    <td class="xl68" x:str> Aa334455 </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
