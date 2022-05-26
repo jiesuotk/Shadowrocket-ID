@@ -1,8 +1,8 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 ### 更新时间 Update Time
 ### 2022-05-26 &#8195; 08:10（Beijng）
-### 更多免费资源请加入我的TG群https://t.me/Lifan86
-
+#### 更多免费资源请加入我的TG群https://t.me/Lifan86
+### 更多共享账号请[点击进入](https://afdian.net/@lifan/plan "悬停显示")我的个人小店
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
