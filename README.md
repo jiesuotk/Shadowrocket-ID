@@ -110,16 +110,10 @@
     <td class="xl68" x:str>lifan68@outlook.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str>https://t.me/Lifan86/69</td>
+    <td class="xl68" x:str>https://t.me/Lifan86/67</td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
   </table>
 
 
----
-
-
-   ### 你的宝贵支持，是我前进的动力！
-
-![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/weixinS.jpg)
