@@ -1,6 +1,6 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 ### 更新时间 Update Time
-### 2022-06-10 &#8195; 08:20（Beijng）
+### 2022-06-10 &#8195; 18:45（Beijng）
 #### 更多免费资源请加入我的TG群https://t.me/Lifan86
 ### 更多共享账号请[点击进入](https://afdian.net/@lifan/plan "悬停显示")我的小铺
 ---
@@ -13,7 +13,8 @@
 
 ### 以上4个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/J1H4u1S5M0o "悬停显示")
 -------------------------------------------
-### 以下为备用账户
+### 以下为备用账户,登录成功率较低
+### 如果全部不能使用请登陆第1个账号，也就是视频演示中的那个
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
  
@@ -90,7 +91,7 @@
     <td class="xl68" x:str>ktjlk547@icloud.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> https://t.me/Lifan86/609 </td>
+    <td class="xl68" x:str> https://t.me/Lifan86/610 </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
@@ -110,7 +111,7 @@
     <td class="xl68" x:str>lifan68@outlook.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str>https://t.me/Lifan86/608</td>
+    <td class="xl68" x:str>https://t.me/Lifan86/610</td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
