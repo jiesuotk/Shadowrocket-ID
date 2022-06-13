@@ -2,11 +2,11 @@
 ### 更新时间 Update Time
 ### 2022-06-13 &#8195; 23:45（Beijng）
 #### 更多免费资源请加入我的TG群https://t.me/Lifan86
-### 更多共享账号请[点击进入](https://afdian.net/@lifan/plan "悬停显示")我的小铺
+### 更多共享账号请[点击进入](https://lffx.pw/ "悬停显示")我的小铺
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
-| 演示的那个 | https://t.me/Lifan86/611 | 
+| 演示的那个 | https://t.me/Lifan86/613 | 
 | Apple ID 2 | ~~**Diu715864**~~ | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
@@ -15,6 +15,7 @@
 -------------------------------------------
 ### 以下为备用账户,登录成功率较低
 ### 如果全部不能使用请登陆第1个账号，也就是视频演示中的那个
+或者进入我的小店获取最新共享账号[点击进入](https://lffx.pw/ "悬停显示")
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
  
