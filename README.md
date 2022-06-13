@@ -14,8 +14,7 @@
 ### 以上4个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/J1H4u1S5M0o "悬停显示")
 -------------------------------------------
 ### 以下为备用账户,登录成功率较低
-### 如果全部不能使用请登陆第1个账号，也就是视频演示中的那个
-或者进入我的小店获取最新共享账号[点击进入](https://lffx.pw/ "悬停显示")
+### 如果全部不能使用请进入我的小店获取最新共享账号[点击进入](https://lffx.pw/ "悬停显示")
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
  
