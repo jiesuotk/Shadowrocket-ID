@@ -1,12 +1,12 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 ### 更新时间 Update Time
-### 2022-06-6 &#8195; 13:35（Beijng）
+### 2022-06-16 &#8195; 13:35（Beijng）
 #### 更多免费资源请加入我的TG群https://t.me/Lifan86
 ### 更多共享账号请[点击进入](https://lffx.pw/ "悬停显示")我的小铺
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
-| 演示的那个 | https://t.me/Lifan86/614 | 
+| 演示的那个 | https://t.me/Lifan86/616 | 
 | Apple ID 2 | ~~**Diu715864**~~ | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
