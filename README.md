@@ -6,7 +6,7 @@
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
-| 演示的那个 | https://t.me/Lifan86/616 | 
+| 演示的那个 | https://t.me/Lifan86/617 | 
 | Apple ID 2 | ~~**Diu715864**~~ | 
 | Apple ID 3 | ~~**Tbn367085**~~ | 
 | Apple ID 4 | ~~**Aqy149753**~~ | 
@@ -42,7 +42,7 @@
     <td class="xl68" x:str>ktjlk547@icloud.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> https://t.me/Lifan86/614 </td>
+    <td class="xl68" x:str> https://t.me/Lifan86/617 </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
@@ -62,7 +62,7 @@
     <td class="xl68" x:str>lifan68@outlook.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> https://t.me/Lifan86/25 </td>
+    <td class="xl68" x:str> https://t.me/Lifan86/617 </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
