@@ -1,16 +1,16 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 #### 更新时间 Update Time
-#### 2022-06-19 &#8195; 23:23
+#### 2022-06-20 &#8195; 18:50
 #### （每天更新3次，使用的人太多，密码失效太快，请保持关注）
 #### 更多免费资源请加入我的TG群https://t.me/Lifan86
 #### 共享账号/节点/奈飞,请[点击进入](https://lffx.pw/ "悬停显示")我的小铺
 ---
 | 视频中的账号| 密码就是网址 |
 | :----: | :----: |
-| 演示的那个 | https://t.me/Lifan86/619 | 
-| Apple ID 2 | ~~**Diu715864**~~ | 
-| Apple ID 3 | ~~**Tbn367085**~~ | 
-| Apple ID 4 | ~~**Aqy149753**~~ | 
+| 演示的那个 | ~~**已废**~~ | 
+| Apple ID 2 | ~~**已废**~~ | 
+| Apple ID 3 | ~~**已废**~~ | 
+| Apple ID 4 | ~~**已废**~~ | 
 
 ### 以上4个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/J1H4u1S5M0o "悬停显示")
 -------------------------------------------
@@ -23,10 +23,10 @@
     <td class="xl65" height="33.33" width="300" colspan="2" style='height:25.00pt;width:265.50pt;border-right:.5pt solid windowtext;border-bottom:.15pt solid windowtext;' x:str>Apple ID 5</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>账号</td>
-    <td class="xl68" x:str>wxjcuppd@hotmail.com</td>
+    <td class="xl68" x:str>govy82473@126.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> Zmu705691 </td>
+    <td class="xl68" x:str> Biu147832 </td>
    </tr>
   </table>
   
@@ -43,7 +43,7 @@
     <td class="xl68" x:str>ktjlk547@icloud.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str>http://LFFX.pw/goods/3</td>
+    <td class="xl68" x:str>Ha202206</td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
@@ -63,7 +63,7 @@
     <td class="xl68" x:str>lifan68@outlook.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str>http://LFFX.pw/goods/3</td>
+    <td class="xl68" x:str>Ha202206</td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
@@ -81,7 +81,7 @@
     <td class="xl68" x:str> gwlpiccj@hotmail.com </td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> Uz46Bx23 </td>
+    <td class="xl68" x:str>Uz46Bx23</td>
    </tr>
   </table>
 
@@ -118,7 +118,7 @@
     <td class="xl68" x:str> ljotuuqhqndkb@hotmail.com </td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> Xu22Ht68 </td>
+    <td class="xl68" x:str> Qf69Dh89 </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
