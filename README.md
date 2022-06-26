@@ -1,6 +1,6 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 #### 更新时间 Update Time
-### 2022-06-25 &#8195; 14:55
+### 2022-06-26 &#8195; 14:55
 #### （每天更新3次，使用的人太多，密码失效太快，请[点击进入](http://lifan86.xyz/ "悬停显示")
 #### 更多免费资源请加入我的TG群https://t.me/Lifan86
 #### 共享账号/节点/奈飞,请进入我的小店http://lifan86.xyz/
@@ -43,7 +43,7 @@
     <td class="xl68" x:str>ktjlk547@icloud.com</td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str>Air22022</td>
+    <td class="xl68" x:str> Lifan86.xyz </td>
    </tr>
    <![if supportMisalignedColumns]>
    <![endif]>
