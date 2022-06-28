@@ -7,7 +7,7 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **Tg20220515** | 
+| Apple ID 1 | **Lifan86.xyz** | 
 | Apple ID 2 | **Lifan86.xyz** | 
 | Apple ID 3 | **Hy332211** | 
 
