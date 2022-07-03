@@ -1,6 +1,6 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 #### 更新时间 Update Time
-### 2022-07-01 &#8195; 09:50
+### 2022-07-03 &#8195; 15:50
 #### 每天更新3次，使用的人太多，密码失效太快，请[更新](http://lifan86.buzz/ "悬停显示")
 #### 共享账号/节点/奈飞,请进入我的小店http://lifan86.buzz/
 #### 我的TG频道也会更新账号https://t.me/lifan66
@@ -9,7 +9,7 @@
 | :----: | :----: |
 | Apple ID 1 | **Ter20226** | 
 | Apple ID 2 | **被风控** | 
-| Apple ID 3 | **Has28855** | 
+| Apple ID 3 | **Hay23355** | 
 
 
 ### 以上3个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/H1BRnGalBjE "悬停显示")
