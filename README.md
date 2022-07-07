@@ -8,8 +8,8 @@
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **Dsye2022** | 
-| Apple ID 2 | **邮箱被SB改了，已取回** | 
-| Apple ID 3 | **邮箱被SB改了，已取回** | 
+| Apple ID 2 | **邮箱被SB改了** | 
+| Apple ID 3 | **邮箱被SB改了** | 
 
 
 ### 以上3个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/H1BRnGalBjE "悬停显示")
