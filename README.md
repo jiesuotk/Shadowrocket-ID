@@ -1,8 +1,8 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 #### 更新时间 Update Time
-### 2022-07-08 &#8195; 01:50
-#### 每天更新2次，使用的人太多，密码失效太快，请[更新](http://lifan86.buzz/ "悬停显示")
-#### 共享账号/节点/奈飞,请进入我的小店http://lifan86.buzz/
+### 2022-07-08 &#8195; 08:50
+#### 每天更新2次，使用的人太多，密码失效太快，请[更新](http://lifan68.buzz/ "悬停显示")
+#### 共享账号/节点/奈飞,请进入我的小店http://lifan68.buzz/
 #### 我的TG群组也会经常发布免费共享账号https://t.me/lifan86
 ---
 | 视频中的账号| 对应的密码 |
@@ -15,7 +15,7 @@
 ### 以上3个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/H1BRnGalBjE "悬停显示")
 -------------------------------------------
 ### 以下为备用账户,登录成功率较低
-### 如果全部不能使用请获取最新共享账号[点击进入](http://lifan86.buzz/ "悬停显示")
+### 如果全部不能使用请获取最新共享账号[点击进入](http://lifan68.buzz/ "悬停显示")
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
  
