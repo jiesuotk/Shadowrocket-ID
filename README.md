@@ -10,6 +10,7 @@
 | Apple ID 1 | **Dsye2022** | 
 | Apple ID 2 | **邮箱被SB改了** | 
 | Apple ID 3 | **邮箱被SB改了** | 
+| 如果你觉得此ID对你有帮助的话 | 顺便下载快连VPN帮我填一下邀请码吧(141408575) | 
 
 
 ### 以上3个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/H1BRnGalBjE "悬停显示")
