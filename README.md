@@ -71,8 +71,8 @@
   </table>
 
 
-#### 如果你觉得此ID对你有帮助的话，
-#### 顺便下载快连VPN帮我填一下邀请码吧(141408575) 
+#### 刚解锁一个小时后
+#### 就被人绑定手机号开启双重
   -
 
 <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
