@@ -7,7 +7,7 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **Translate2022** | 
+| Apple ID 1 | **Translate2023** | 
 | Apple ID 2 | **邮箱被SB改了** | 
 | Apple ID 3 | **邮箱被SB改了** | 
 | 如果你觉得此ID对你有帮助的话 | 顺便下载快连VPN帮我填一下邀请码吧(141408575) | 
@@ -82,7 +82,7 @@
     <td class="xl68" x:str> nosingr8@proton.me </td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> About2255 </td>
+    <td class="xl68" x:str> Fool2022 </td>
    </tr>
   </table>
 
