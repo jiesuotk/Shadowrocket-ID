@@ -102,14 +102,5 @@
   </table>
   
   -
-![vpn](https://raw.githubusercontent.com/raoli1986/raoli1986.github.io/main/images/vpn-logo2.png)
-### 免费试用快连VPN获取最新小火箭账号
-#### 可能是速度最快的VPN，3秒极速连接
-#### 用你的美区ID登录商店下载快连VPN
-#### 安装后打开填写我的邀请码：141408575
-#### 然后截图发给博主获取最新小火箭共享账号
-#### 还可以再多加几天会员试用时间！
-#### 博主TG号https://t.me/raoley
-#### 博主邮箱raoley@gmail.com
-
+ ###  快连VPN垃圾中的战斗机，铂金会员一个月40元，比普通机场贵3-4倍，节点少的可怜，限速20MB，看个4K都费劲，不支持分流，不支持脚本，不支持插件，专坑小白。
 
