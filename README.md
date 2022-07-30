@@ -7,8 +7,8 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | ** Gete2233 ** | 
-| Apple ID 2 | ** Gete2233 ** | 
+| Apple ID 1 | **Gete2233** | 
+| Apple ID 2 | **Gete2233** | 
 | Apple ID 3 | **暂无** | 
 
 ### 以上3个账号都隐藏在我的YouTube视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
