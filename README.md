@@ -1,6 +1,6 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 #### 更新时间 Update Time
-### 2022-08-02 &#8195; 08:30
+### 2022-08-03 &#8195; 00:30
 #### 每天更新2次，使用的人太多，密码失效太快，请[更新](https://afdian.net/@lifan "悬停显示")
 #### 共享账号/原生节点/奈飞影视,请进入我的小店https://afdian.net/@lifan
 #### 我的TG群组每天也会发布免费共享账号https://t.me/lifan86
@@ -80,7 +80,7 @@
     <td class="xl68" x:str> nosingr8@proton.me </td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>密码</td>
-    <td class="xl68" x:str> Homk3696 </td>
+    <td class="xl68" x:str> Homk36961 </td>
    </tr>
   </table>
 
