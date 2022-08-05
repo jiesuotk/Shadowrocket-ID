@@ -7,7 +7,7 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **Time53921** | 
+| Apple ID 1 | **Yrsdfi82dgu** | 
 | Apple ID 2 | **Gtmops2235** | 
 | Apple ID 3 | **暂无** | 
 
