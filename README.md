@@ -7,7 +7,7 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **Yang7799** | 
+| Apple ID 1 | **Yang7798** | 
 | Apple ID 2 | **Knew3369** | 
 | Apple ID 3 | **暂无** | 
 
