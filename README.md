@@ -14,7 +14,7 @@
 ### 以上账号都隐藏在我的第三期视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
 -------------------------------------------
 ### 以下为备用账户,登录成功率较低
-### （8月10日停止更新，绑定手机号的人太多，每次新密码只能存活半小时，不看教程不提供账号）
+### （8月10日停止更新，绑定手机号的人太多，每次新密码只能存活半小时，不看视频教程不提供账号）
 
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
@@ -55,7 +55,7 @@
 <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
  
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
-    <td class="xl65" height="33.33" width="300" colspan="2" style='height:25.00pt;width:265.50pt;border-right:.5pt solid windowtext;border-bottom:.15pt solid windowtext;' x:str>Apple ID 6(原来视频的第3个)</td>
+    <td class="xl65" height="33.33" width="300" colspan="2" style='height:25.00pt;width:265.50pt;border-right:.5pt solid windowtext;border-bottom:.15pt solid windowtext;' x:str>Apple ID 6 </td>
    <tr height="33.33" style='height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
     <td class="xl67" height="33.33" style='height:25.00pt;' x:str>账号</td>
     <td class="xl68" x:str> nosingr8@proton.me </td>
