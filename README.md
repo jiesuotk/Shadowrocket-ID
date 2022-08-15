@@ -8,7 +8,7 @@
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **Ddos4885** | 
-| Apple ID 2 | **Buzz5568** | 
+| Apple ID 2 | **Wksa2268** | 
 | Apple ID 3 | **暂无** | 
 
 #### 以上账号都隐藏在我的第三期视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
