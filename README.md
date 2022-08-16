@@ -14,7 +14,7 @@
 #### 以上账号都隐藏在我的第三期视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
 -------------------------------------------
 #### 以下为备用账户,登录成功率较低
-#### 如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点[这里](https://www.lifan88.buzz/ "悬停显示")租用
+#### 如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点[这里](https://01.appleid.buzz/ "悬停显示")租用
 
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
