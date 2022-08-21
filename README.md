@@ -8,7 +8,7 @@
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **Hubd3355** | 
-| Apple ID 2 | **Wksa7355** | 
+| Apple ID 2 | **Again7355** | 
 | Apple ID 3 | **暂无** | 
 
 #### 以上账号都隐藏在我的第三期视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
