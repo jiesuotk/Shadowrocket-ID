@@ -7,7 +7,7 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **Hubd3322** | 
+| Apple ID 1 | **Hube3322** | 
 | Apple ID 2 | **Again7255** | 
 | Apple ID 3 | **暂无** | 
 
