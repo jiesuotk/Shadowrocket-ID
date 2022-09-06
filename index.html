@@ -1,92 +1,40 @@
-<!DOCTYPE html>
+<?php 
+$t_url=$_GET['url'];
+if(!empty($t_url)) {
+    preg_match('/(http|https):\/\//',$t_url,$matches);
+    if($matches){
+        $url=$t_url;
+        $title='页面跳转中,请稍候...';
+    } else {
+        preg_match('/\./i',$t_url,$matche);
+        if($matche){
+            $url='http://'.$t_url;
+            $title='页面跳转中,请稍候...';
+        } else {
+            $url='http://zuhao.tk/';
+            $title='参数错误，正在返回首页...';
+        }
+    }
+} else {
+    $title='参数缺失，正在返回首页...';
+    $url='http://baidu.com/';
+}
+?>
 <html>
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="refresh" content="1;url='<?php echo $url;?>';">
+<title><?php echo $title;?></title>
+<style>
+body{background:#000}.loading{-webkit-animation:fadein 2s;-moz-animation:fadein 2s;-o-animation:fadein 2s;animation:fadein 2s}@-moz-keyframes fadein{from{opacity:0}to{opacity:1}}@-webkit-keyframes fadein{from{opacity:0}to{opacity:1}}@-o-keyframes fadein{from{opacity:0}to{opacity:1}}@keyframes fadein{from{opacity:0}to{opacity:1}}.spinner-wrapper{position:absolute;top:0;left:0;z-index:300;height:100%;min-width:100%;min-height:100%;background:rgba(255,255,255,0.93)}.spinner-text{position:absolute;top:50%;left:50%;margin-left:-90px;margin-top: 2px;color:#BBB;letter-spacing:1px;font-weight:700;font-size:36px;font-family:Arial}.spinner{position:absolute;top:50%;left:50%;display:block;margin-left:-160px;width:1px;height:1px;border:25px solid rgba(255,0,0,1);-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;border-left-color:transparent;border-right-color:transparent;-webkit-animation:spin 1.5s infinite;-moz-animation:spin 1.5s infinite;animation:spin 1.5s infinite}@-webkit-keyframes spin{0%,100%{-webkit-transform:rotate(0deg) scale(1)}50%{-webkit-transform:rotate(720deg) scale(0.6)}}@-moz-keyframes spin{0%,100%{-moz-transform:rotate(0deg) scale(1)}50%{-moz-transform:rotate(720deg) scale(0.6)}}@-o-keyframes spin{0%,100%{-o-transform:rotate(0deg) scale(1)}50%{-o-transform:rotate(720deg) scale(0.6)}}@keyframes spin{0%,100%{transform:rotate(0deg) scale(1)}50%{transform:rotate(720deg) scale(0.6)}}
+</style>
 </head>
 <body>
-<p><span style="color: #34495e;"><img src="https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png" alt="" /></span></p>
-<ul style="list-style-type: circle;">
-<li dir="auto"><span style="color: #34495e;">更新时间 Update Time&nbsp; <a id="user-content-2022-08-30--1100" class="anchor" style="color: #34495e;" href="https://github.com/raoli1986/Shadowrocket-ID#2022-08-30--1100" aria-hidden="true"></a><span style="color: #ff0000;">2022-08-31&nbsp; 11:00</span></span></li>
-<li dir="auto"><span style="color: #34495e;"><a id="user-content-每天更新2次使用的人太多密码失效太快请更新" class="anchor" style="color: #34495e;" href="https://github.com/raoli1986/Shadowrocket-ID#%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B02%E6%AC%A1%E4%BD%BF%E7%94%A8%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%A4%9A%E5%AF%86%E7%A0%81%E5%A4%B1%E6%95%88%E5%A4%AA%E5%BF%AB%E8%AF%B7%E6%9B%B4%E6%96%B0" aria-hidden="true"></a>每天更新2次，使用的人太多，密码失效太快请<a style="color: #34495e;" title="悬停显示" href="http://lf.hhtx.buzz/" rel="nofollow"><span style="color: #002fff;">更新</span></a></span></li>
-<li dir="auto"><span style="color: #34495e;"><a id="user-content-共享账号原生节点奈飞影视请进入我的小店httplfhhtxbuzz" class="anchor" style="color: #34495e;" href="https://github.com/raoli1986/Shadowrocket-ID#%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%E5%8E%9F%E7%94%9F%E8%8A%82%E7%82%B9%E5%A5%88%E9%A3%9E%E5%BD%B1%E8%A7%86%E8%AF%B7%E8%BF%9B%E5%85%A5%E6%88%91%E7%9A%84%E5%B0%8F%E5%BA%97httplfhhtxbuzz" aria-hidden="true"></a>独享账号/原生节点/奈飞会员<span style="color: #ff0000;"><a style="color: #ff0000;" href="http://lf.hhtx.buzz/" rel="nofollow">http://lf.hhtx.buzz/</a></span></span></li>
-<li dir="auto"><span style="color: #34495e;"><a id="user-content-我的tg群组每天也会发布免费共享账号httpstmelifan86" class="anchor" style="color: #34495e;" href="https://github.com/raoli1986/Shadowrocket-ID#%E6%88%91%E7%9A%84tg%E7%BE%A4%E7%BB%84%E6%AF%8F%E5%A4%A9%E4%B9%9F%E4%BC%9A%E5%8F%91%E5%B8%83%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7httpstmelifan86" aria-hidden="true"></a>我的TG群组每天也会发布免费共享账号<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/lifan86" rel="nofollow">https://t.me/lifan86</a></span></span></li>
-</ul>
-<hr />
-<table style="width: 358px;">
-<thead>
-<tr>
-<th style="width: 131.167px;" align="center"><span style="color: #843fa1;">视频中的账号</span></th>
-<th style="width: 198.258px;" align="center"><span style="color: #843fa1;">对应的密码</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="width: 131.167px;" align="center">Apple ID 1</td>
-<td style="width: 198.258px;" align="center"><span style="color: #e67e23;"><strong>Kong2326</strong></span></td>
-</tr>
-<tr>
-<td style="width: 131.167px;" align="center">Apple ID 2</td>
-<td style="width: 198.258px;" align="center"><span style="color: #e67e23;"><strong>App37669</strong></span></td>
-</tr>
-<tr>
-<td style="width: 131.167px;" align="center">Apple ID 3</td>
-<td style="width: 198.258px;" align="center"><strong>暂无</strong></td>
-</tr>
-</tbody>
-</table>
-<ul style="list-style-type: circle;">
-<li><a id="user-content-以上账号都隐藏在我的第三期视频里面--点击进入" class="anchor" href="https://github.com/raoli1986/Shadowrocket-ID#%E4%BB%A5%E4%B8%8A%E8%B4%A6%E5%8F%B7%E9%83%BD%E9%9A%90%E8%97%8F%E5%9C%A8%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E6%9C%9F%E8%A7%86%E9%A2%91%E9%87%8C%E9%9D%A2--%E7%82%B9%E5%87%BB%E8%BF%9B%E5%85%A5" aria-hidden="true"></a><span style="color: #ff0000;"><strong><span style="color: #ba372a;">以上账号都隐藏在我的第三期视频里面&nbsp;</span><span style="color: #002fff;"><a style="color: #002fff;" title="悬停显示" href="https://youtu.be/xAi-3aDpr6U" rel="nofollow">点击进入</a></span></strong></span></li>
-</ul>
-<hr />
-<ul style="list-style-type: circle;">
-<li><a id="user-content-以下为备用账户登录成功率较低" class="anchor" href="https://github.com/raoli1986/Shadowrocket-ID#%E4%BB%A5%E4%B8%8B%E4%B8%BA%E5%A4%87%E7%94%A8%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F%E7%8E%87%E8%BE%83%E4%BD%8E" aria-hidden="true"></a><span style="color: #2f733e;">以下为备用账户,登录成功率较低</span></li>
-<li><span style="color: #2f733e;"><a id="user-content-如果视频中的2个账号失效请第二天再来注意看更新时间急用的话请点这里租用" class="anchor" style="color: #2f733e;" href="https://github.com/raoli1986/Shadowrocket-ID#%E5%A6%82%E6%9E%9C%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%842%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%A4%B1%E6%95%88%E8%AF%B7%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%86%8D%E6%9D%A5%E6%B3%A8%E6%84%8F%E7%9C%8B%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4%E6%80%A5%E7%94%A8%E7%9A%84%E8%AF%9D%E8%AF%B7%E7%82%B9%E8%BF%99%E9%87%8C%E7%A7%9F%E7%94%A8" aria-hidden="true"></a>如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点<a style="color: #2f733e;" title="悬停显示" href="http://lf.hhtx.buzz/" rel="nofollow">这里</a>租用</span></li>
-</ul>
-<table border="0" width="354" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td colspan="2" width="300" height="33.33">Apple ID 4</td>
-</tr>
-<tr>
-<td height="33.33">账号</td>
-<td>gwlpiccj@hotmail.com</td>
-</tr>
-<tr>
-<td height="33.33">密码</td>
-<td>Hsse2368</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<table border="0" width="354" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td colspan="2" width="300" height="33.33">Apple ID 5</td>
-</tr>
-<tr>
-<td height="33.33">账号</td>
-<td>nosingr8@proton.me</td>
-</tr>
-<tr>
-<td height="33.33">密码</td>
-<td>Raw12865</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<table border="0" width="354" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td colspan="2" width="300" height="33.33">Apple ID 6</td>
-</tr>
-<tr>
-<td height="33.33">账号</td>
-<td>chiwzkjdytqx@hotmail.com</td>
-</tr>
-<tr>
-<td height="33.33">密码</td>
-<td>Uh47Mj75</td>
-</tr>
-</tbody>
-</table>
+<div class="loading">
+  <div class="spinner-wrapper">
+    <span class="spinner-text">页面跳转中,请稍候...</span>
+    <span class="spinner"></span>
+  </div>
+</div>
 </body>
 </html>
