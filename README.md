@@ -7,7 +7,7 @@
 ---
 | 视频中的账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **Tank7983** | 
+| Apple ID 1 | **Tany7983** | 
 | Apple ID 2 | **Fank8633** | 
 | Apple ID 3 | **暂无** | 
 
