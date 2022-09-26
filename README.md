@@ -1,7 +1,7 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 #### 更新时间 Update Time
 ### 2022-09-19 &#8195; 21:40
-#### 每天更新2次，使用的人太多，密码失效太快，请[更新](https://zuyong.tk "悬停显示")
+#### 每天更新2次，使用的人太多，密码失效太快，请[更新](http://iphoneid.tk/ "悬停显示")
 #### 独享小火箭账号/原生节点/奈飞影视http://xiaohuojian.buzz/
 #### 我的TG群组每天也会发布免费共享账号https://t.me/lifan86
 ---
@@ -14,7 +14,7 @@
 #### 以上账号都隐藏在我的第三期视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
 -------------------------------------------
 #### 以下为备用账户,登录成功率较低
-#### 如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点[这里](https://zuyong.tk/ "悬停显示")租用
+#### 如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点[这里](http://iphoneid.tk/ "悬停显示")租用
 
 -
 #### <table width="354" border="0" cellpadding="0" cellspacing="0" style='width:265.50pt;border-collapse:collapse;table-layout:fixed;'>
