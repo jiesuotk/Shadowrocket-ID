@@ -9,7 +9,7 @@
 | :----: | :----: |
 | Apple ID 1 | ~~**Tany7987**~~ | 
 | Apple ID 2 | ~~**Rsae2788**~~ | 
-| lifan866@outlook.com| **Dane53859** | 
+| lifan866@outlook.com| **Usa59963** | 
 | xiaohuojian@duck.com| **Dane53859** | 
 #### 以上账号都隐藏在我的第三期视频里面  [点击进入](https://youtu.be/xAi-3aDpr6U "悬停显示")
 -------------------------------------------
