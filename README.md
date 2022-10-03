@@ -6,12 +6,24 @@
 #### 我的TG群组每天也会发布免费共享账号https://t.me/lifan86
 ---
 第四期视频地址https://youtu.be/FN1pQVdOJcM
-| 视频中的账号| 对应的密码 |
+| 视频中的共享账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **请用第2个** | 
+| Apple ID 1 | **第1个已废** | 
 | Apple ID 2 | **Yingr5383** | 
-| lifan866@outlook.com| ~~**Usa59963**~~ | 
+
 #### 以上账号都隐藏在我的第四期视频里面  [点击进入](https://youtu.be/FN1pQVdOJcM "悬停显示")
+-------------------------------------------
+#### 最新YouTube去广告模块
+https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Shadowrocket/Module/YouTubeAds.sgmodule
+
+#### 酷我音乐解锁SVIP全部功能模块
+https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Shadowrocket.module
+
+#### 最新去广告规则配置文件
+https://raw.githubusercontent.com/Shu-Ji/shadowrocket-anti-ad/master/rules/sr-anti-ad.conf
+
+##### 使用方法见视频
+##### 或者进群交流
 -------------------------------------------
 #### 以下为备用账户,登录成功率较低
 #### 如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点[这里](http://iphoneid.tk/ "悬停显示")租用
