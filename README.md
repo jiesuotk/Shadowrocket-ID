@@ -22,8 +22,8 @@ https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic
 #### 最新去广告规则配置文件
 https://raw.githubusercontent.com/Shu-Ji/shadowrocket-anti-ad/master/rules/sr-anti-ad.conf
 
-##### 使用方法见视频
-##### 或者进群交流
+##### 使用方法见视频https://youtu.be/FN1pQVdOJcM 
+##### 或者进群交流https://t.me/lifan86
 -------------------------------------------
 #### 以下为备用账户,登录成功率较低
 #### 如果视频中的2个账号失效请第二天再来，注意看更新时间，急用的话请点[这里](http://iphoneid.tk/ "悬停显示")租用
