@@ -18,7 +18,9 @@
   <summary>:key:2个配置文件</summary>   
   
 * #### :bell:常用分流规则，支持去广告
+
 ```https://raw.githubusercontent.com/Shu-Ji/shadowrocket-anti-ad/master/rules/sr-anti-ad.conf```
+
 ```https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf```
 </details>
 
