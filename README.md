@@ -16,7 +16,9 @@
 ### :rocket:小火箭配置文件及模块    
   
 <details>
-  <summary>:key:2个分流规则配置文件</summary>    
+  <summary>:key:2个配置文件</summary>   
+  
+* #### :bell:常用分流规则，支持去广告
 
 https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf
 https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf
