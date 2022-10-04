@@ -11,7 +11,7 @@
 | Apple ID 1 | **第1个已废** | 
 | Apple ID 2 | **Yingr5388** | 
 
-#### 以上账号都隐藏在我的第四期视频里面  [点击进入](https://youtu.be/FN1pQVdOJcM "悬停显示")
+#### 第1个账号已废，第2个账号隐藏在我的第四期视频里面  [点击进入](https://youtu.be/FN1pQVdOJcM "悬停显示")
 -------------------------------------------
 #### 最新YouTube去广告模块
 https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Shadowrocket/Module/YouTubeAds.sgmodule
