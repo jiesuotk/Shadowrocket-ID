@@ -85,7 +85,7 @@
 |--|--|--|
 |:white_check_mark:AdBlock|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/AdBlock.module)|整体去广告
 |:white_check_mark:aloha|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aloha.module)|VPN隐私浏览器
-|:white_check_mark:爱美剧|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/amj.module)|影视app 去广告+解锁部分会员功能
+|:white_check_mark:爱美剧|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/amj.module)|影视app 解锁部分会员功能
 |:white_check_mark:Background Eraser|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aosoft.module)|抠图app
 |:white_check_mark:bilibili HD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili.module)|哔哩高清解锁
 |:white_check_mark:bilibili NoAD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module)|bilibili去广告
@@ -112,7 +112,7 @@
 |:white_check_mark:人人视频|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rrsp.module)|人人视频/多多视频去广告
 |:white_check_mark:shadowlinkVPN|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/shadowlinkVPN.module)|解锁VIP节点
 |:white_check_mark:soundcloud|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/soundcloud.module)|解锁soundcloud Go+
-|:white_check_mark:spotify|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotifyVIP.module)|spotify 部分解锁不能设置超高音质
+|:white_check_mark:spotify|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotifyVIP.module)|spotify 部分解锁设置超高音质
 |:white_check_mark:substore|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/substore.sgmodule)|订阅节点过滤/整合/修改/同步
 |:white_check_mark:迅雷|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/thunder.module)|迅雷会员
 |:white_check_mark:vista看天下|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vista.module)|vista看天下会员
