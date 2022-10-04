@@ -13,16 +13,16 @@
 
 #### 第1个账号已废，第2个账号隐藏在我的第四期视频里面  [点击进入](https://youtu.be/FN1pQVdOJcM "悬停显示")
 -------------------------------------------
-最新YouTube去广告模块
+最新YouTube去广告模块<br>
 https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Shadowrocket/Module/YouTubeAds.sgmodule
 
-解锁酷我音乐超级会员模块
+解锁酷我音乐超级会员模块<br>
 https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Shadowrocket.module
 
-解锁金山WPS高级会员模块
+解锁金山WPS高级会员模块<br>
 https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/WPS.module
 
-最新去广告规则配置文件
+最新去广告规则配置文件<br>
 https://raw.githubusercontent.com/Shu-Ji/shadowrocket-anti-ad/master/rules/sr-anti-ad.conf
 
 ##### ▎使用说明：配置-模块-右上角+号-复制下面的链接-粘贴下载，建议重启生成安装证书。
