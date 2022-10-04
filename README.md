@@ -87,8 +87,8 @@
 |:white_check_mark:aloha|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aloha.module)|VPN隐私浏览器
 |:white_check_mark:爱美剧|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/amj.module)|影视app 解锁部分会员功能
 |:white_check_mark:Background Eraser|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aosoft.module)|抠图app
-|:white_check_mark:bilibili HD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili.module)|哔哩高清解锁
-|:white_check_mark:bilibili NoAD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module)|bilibili去广告
+|:white_check_mark:B站 HD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili.module)|哔哩高清解锁
+|:white_check_mark:B站|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/biliad.module)|哔哩去广告
 |:white_check_mark:波点音乐|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Bodian.module)|波点音乐去广告
 |:white_check_mark:BOOM|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boom.module)|音乐均衡器
 |:white_check_mark:boxjs|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule)|含签到脚本
