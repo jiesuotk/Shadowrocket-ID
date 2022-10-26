@@ -13,13 +13,6 @@
 
 
 
-Brookejackson99@hotmail.com<br>
-XUd18w01
-
-
-jswqhympnns@hotmail.com<br>
-TZz30c89
-
 
 #### [电脑和安卓使用的免费VPN推荐](https://www.bjch110.com/?mid=3022 "悬停显示")
 
