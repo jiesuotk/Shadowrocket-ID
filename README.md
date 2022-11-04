@@ -1,5 +1,5 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
-#### 更新时间（Update Time） &#8195; 2022-11-03 &#8195; 13:30
+#### 更新时间（Update Time） &#8195; 2022-11-04 &#8195; 11:30
 #### 每天更新2次，使用的人太多，密码失效太快，请[更新](http://iphoneid.tk/ "悬停显示")
 #### 独享小火箭账号/原生节点/奈飞影视http://xiaohuojian.buzz
 #### 我的TG群组每天下午发布免费共享账号https://t.me/lifan86
@@ -9,7 +9,7 @@
 | 视频中的共享账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **第1个账号已废** | 
-| Apple ID 2 | **Zftru82246** | 
+| Apple ID 2 | **Zftru82136** | 
 
 
 
