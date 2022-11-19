@@ -1,5 +1,5 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
-#### 更新时间（Update Time） &#8195; 2022-11-19 &#8195; 21:20
+#### 更新时间（Update Time） &#8195; 2022-11-20 &#8195; 01:20
 #### 每天更新2次，使用的人太多，密码失效太快，请[更新](http://iphoneid.tk/ "悬停显示")
 #### 独享小火箭账号/原生节点/奈飞影视http://xiaohuojian.buzz
 #### 我的TG群组每天下午发布免费共享账号https://t.me/lifan86
@@ -8,12 +8,8 @@
 #### 2个账号隐藏在我的第五期视频里面  [点击进入](https://youtu.be/iw6gPwXWZM0 "悬停显示")
 | 视频中的共享账号| 对应的密码 |
 | :----: | :----: |
-| Apple ID 1 | **M5dA1806** | 
-| Apple ID 2 | **已废** | 
-#### 这账号才分享两天，第2个账号就被人改了，
-#### 改成了这个邮箱15613725659@163.com
-#### 不过我已经用密保邮箱取回来了
-
+| Apple ID 1 | **MRmay24490** | 
+| Apple ID 2 | **Hberw5973** | 
 
 
 #### [电脑和安卓使用的免费VPN推荐](https://www.bjch110.com/?mid=3022 "悬停显示")
