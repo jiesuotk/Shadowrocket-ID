@@ -9,7 +9,7 @@
 | 视频中的共享账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **Mumay2259** | 
-| Apple ID 2 | **Hberw5973** | 
+| Apple ID 2 | **Hberw59733** | 
 
 
 #### [电脑和安卓使用的免费VPN推荐](https://www.bjch110.com/?mid=3022 "悬停显示")
