@@ -1,14 +1,11 @@
-![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
 
-#### 独享小火箭账号/原生节点/奈飞影视http://xiaohuojian.buzz
-#### 我的TG群组每天下午发布免费共享账号https://t.me/lifan86
 #### 此网页已暂停更新，请点击[这里](https://www.alfxw.com/2022/11/22/gxzh/ "悬停显示")
 
 | 视频中的共享账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **又废了** | 
 | Apple ID 2 | **又废了** | 
-| 11月22日有人恶心修改 | 暂停更新 | 
+| 11月22日有人恶心修改 | 此网页暂停更新 | 
 
 
 #### 此网页已暂停更新，请点击[这里](https://www.alfxw.com/2022/11/22/gxzh/ "悬停显示")
