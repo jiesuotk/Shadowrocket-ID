@@ -1,11 +1,9 @@
 ![weixin](https://github.com/raoli1986/raoli1986.github.io/blob/main/images/Shadowrocket.png)
-#### 更新时间（Update Time） &#8195; 2022-11-22 &#8195; 15:50
-#### 每天更新2次，使用的人太多，密码失效太快，请[更新](http://iphoneid.tk/ "悬停显示")
+
 #### 独享小火箭账号/原生节点/奈飞影视http://xiaohuojian.buzz
 #### 我的TG群组每天下午发布免费共享账号https://t.me/lifan86
+#### 此网页已暂停更新，请点击[这里](https://www.alfxw.com/2022/11/22/gxzh/"悬停显示")
 
----
-#### 2个账号隐藏在我的第五期视频里面  [点击进入](https://youtu.be/E2mUa3KHLzI "悬停显示")
 | 视频中的共享账号| 对应的密码 |
 | :----: | :----: |
 | Apple ID 1 | **又废了** | 
@@ -13,7 +11,7 @@
 | 11月22日有人恶心修改 | 暂停更新 | 
 
 
-#### [电脑和安卓使用的免费VPN推荐](https://www.bjch110.com/?mid=3022 "悬停显示")
+#### 此网页已暂停更新，请点击[这里](https://www.alfxw.com/2022/11/22/gxzh/"悬停显示")
 
 
 
