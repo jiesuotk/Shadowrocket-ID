@@ -8,9 +8,9 @@
 
 
 #### 此网页已暂停更新，可以加入小火箭[TG群组](https://t.me/xhjzh "悬停显示")每天发布免费账号
-#### 如果手机没有安装TG，请查看[使用教程]([https://www.alfxw.com/2022/11/23/tg](https://cxkun.com/sites/151.html)/ "悬停显示")
+#### 如果手机没有安装TG，请查看[使用教程](https://cxkun.com/sites/151.html/ "悬停显示")
 #### 购买美区永久独享小火箭，[点击这里](https://pingguo.id/ "悬停显示")
-#### Netflix奈飞免费共享账号，[每月更新]([https://www.alfxw.com/2022/10/17/netflix/](https://cxkun.com/sites/25.html/) "悬停显示")
+#### Netflix奈飞免费共享账号，[每月更新](https://cxkun.com/sites/25.html/ "悬停显示")
 
 
 -------------------------------------------
