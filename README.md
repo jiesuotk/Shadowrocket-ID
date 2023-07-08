@@ -5,7 +5,7 @@
 | :----: | :----: | :----: |
 | Apple ID 1 | **955745as@502.cx** |  **ABu92e11** | 
 | Apple ID 2 | **13862622395@189.cn** |  **GCt14v78** | 
-| Apple ID 3 | **shedegxhbf@outlook.com** |  **UFq21l87** | 
+| Apple ID 3 | **x03@jiesuo.tk** |  **Ba69Tv50** | 
 
 
 #### 此网页恢复更新，可以加入小火箭[TG群组](https://t.me/xhjzh "悬停显示")每天发布免费账号
