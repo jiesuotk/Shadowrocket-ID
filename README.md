@@ -1,11 +1,12 @@
 ### 小火箭共享账号
-#### 更新时间：2023-07-08 00:25
+#### 更新时间：2023-08-06 10:22
 
 | 共享小火箭| 账号 | 密码 |
 | :----: | :----: | :----: |
-| Apple ID 1 | **955745as@502.cx** |  **ABu92e11** | 
-| Apple ID 2 | **13862622395@189.cn** |  **GCt14v78** | 
-| Apple ID 3 | **x03@jiesuo.tk** |  **Ba69Tv50** | 
+| Apple ID 1 | **shadowrocket01@pingguo.id** |  **Hy998822** | 
+| Apple ID 2 | **shadowrocket02@pingguo.id** |  **Hy998822** | 
+| Apple ID 3 | **shadowrocket03@pingguo.id** |  **Hy998822** | 
+
 
 
 #### 此网页恢复更新，可以加入小火箭[TG群组](https://t.me/xhjzh "悬停显示")每天发布免费账号
