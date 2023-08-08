@@ -1,11 +1,11 @@
 ### 小火箭免费共享账号
 #### 更新时间：2023-08-08 10:22
 
-| 共享小火箭| 账号 |
+| 小火箭| 账号 |
 | :----: | :----: | 
-| Apple ID 1 | **https://aunlock.laogoubi.net/p/59fbf185d6a7531b1a195cb2ff4e1e4b** |  
-| Apple ID 2 | **https://aunlock.laogoubi.net/p/ccccf3dc8116ec434c4d3535ce3a55cb** | 
-| Apple ID 3 | **https://aunlock.laogoubi.net/p/7c985d73ce4b8ac84a10a0f37d48f5b3** | 
+| ID 1 | **https://aunlock.laogoubi.net/p/59fbf185d6a7531b1a195cb2ff4e1e4b** |  
+| ID 2 | **https://aunlock.laogoubi.net/p/ccccf3dc8116ec434c4d3535ce3a55cb** | 
+| ID 3 | **https://aunlock.laogoubi.net/p/7c985d73ce4b8ac84a10a0f37d48f5b3** | 
 
 
 
