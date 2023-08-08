@@ -1,11 +1,11 @@
 ### 小火箭免费共享账号
 #### 更新时间：2023-08-06 10:22
 
-| 共享小火箭| 账号 | 密码 |
-| :----: | :----: | :----: |
-| Apple ID 1 | **shadowrocket01@pingguo.id** |  **Hy998822** | 
-| Apple ID 2 | **shadowrocket02@pingguo.id** |  **Hy998822** | 
-| Apple ID 3 | **shadowrocket03@pingguo.id** |  **Hy998822** | 
+| 共享小火箭| 账号 |
+| :----: | :----: | 
+| Apple ID 1 | **https://aunlock.laogoubi.net/p/59fbf185d6a7531b1a195cb2ff4e1e4b** |  
+| Apple ID 2 | **https://aunlock.laogoubi.net/p/ccccf3dc8116ec434c4d3535ce3a55cb** | 
+| Apple ID 3 | **https://aunlock.laogoubi.net/p/7c985d73ce4b8ac84a10a0f37d48f5b3** | 
 
 
 
