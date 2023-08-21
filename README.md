@@ -3,7 +3,7 @@
 
 | 小火箭| 账号 |
 | :----: | :----: | 
-| ID 1 | **https://w.jiesuo.link/share/a?access_token=c6b72342f0d0aabf7bbc5bafaa9eb420** |  
+| ID 1 | **https://jiesuo.xyz/s?at=beea54672f3e43d796db4a4744f9f013** |  
 | ID 2 | **https://w.jiesuo.link/share/a?access_token=6008fba6b004326542faaeec8431d1d7** | 
 | ID 3 | **https://w.jiesuo.link/share/a?access_token=be051c94e3a20d48f45d973e69c95ed2** | 
 
