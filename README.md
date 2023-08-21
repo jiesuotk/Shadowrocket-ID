@@ -1,11 +1,10 @@
 ### 小火箭免费共享账号
 #### 更新时间：2023-08-08 10:22
 
-| 小火箭| 账号 |
+| 小火箭| 需要复制地址在浏览器中粘贴打开，不能直接点击 |
 | :----: | :----: | 
 | ID 1 | **https://jiesuo.xyz/s?at=beea54672f3e43d796db4a4744f9f013** |  
-| ID 2 | **https://w.jiesuo.link/share/a?access_token=6008fba6b004326542faaeec8431d1d7** | 
-| ID 3 | **https://w.jiesuo.link/share/a?access_token=be051c94e3a20d48f45d973e69c95ed2** | 
+
 
 
 
