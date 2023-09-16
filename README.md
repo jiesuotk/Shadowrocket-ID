@@ -5,7 +5,6 @@
 | :----: | :----: | 
 | ID 1 | **https://eg.id888.one/s?at=beea54672f3e43d796db4a4744f9f013** |  
 | ID 2 | **https://xiaohuojian.link/** |  
-| 警告| 不能直接点击，直接打开会提示无权访问 |
 
 
 
