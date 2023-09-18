@@ -4,7 +4,6 @@
 | 小火箭| 复制地址新建窗口粘贴打开，(不能直接点击！) |
 | :----: | :----: | 
 | ID 1 | **https://eg.id888.one/s?at=beea54672f3e43d796db4a4744f9f013** |  
-| ID 2 | **https://xiaohuojian.link/** |  
 
 
 
