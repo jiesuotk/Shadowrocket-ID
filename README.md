@@ -3,15 +3,13 @@
 
 | 小火箭| 复制地址新建窗口粘贴打开，(不能直接点击！) |
 | :----: | :----: | 
-| ID 1 | **https://aunlock.laogoubi.net/p/f27e04f3c4a411a751319837b4571fa2** |  
-| ID 2 | **https://aunlock.laogoubi.net/p/441cbf5a478534e747c3e32d2dd58de6** |
-
-
+| ID 1 | **https://dzhqy.sha.cx/fdb2a139588b5c8c33ab122125057dd1** |  
+| ID 2 | **https://l2666.sha.cx/6a818d05ae2377503af263e877e1a91e** |
 
 
 #### 此网页恢复更新，可以加入小火箭[TG群组](https://t.me/xhjzh "悬停显示")每天发布免费账号
 #### 如果手机没有安装TG，请查看[使用教程](https://cxkun.com/sites/151.html/ "悬停显示")
-#### 购买美区永久独享小火箭，[点击这里](https://pgid.shop/ "悬停显示")
+#### 购买美区永久独享小火箭，[点击这里](https://pingguo.id/ "悬停显示")
 
 
 -------------------------------------------
